@@ -10,5 +10,5 @@ export * from './line-heights'
 
 // import { colors } from '@ignite-ui/tokens/colors'
 
-//import { colors } from '@ignite-ui/tokens'
+// import { colors } from '@ignite-ui/tokens'
 // essa importacao no index faz nao precisar por o /colors no final.
